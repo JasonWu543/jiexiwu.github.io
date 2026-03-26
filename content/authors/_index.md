@@ -20,7 +20,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wjx5430308@163.com
+    link: 'wjx5430308@163.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/jasonwu0308
