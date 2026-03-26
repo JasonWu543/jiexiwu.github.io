@@ -23,7 +23,7 @@ social:
     link: 'wjx5430308@163.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/jasonwu0308
+    link: https://github.com/JasonWu543
 
 user_groups:
   - Researchers
